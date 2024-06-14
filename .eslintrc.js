@@ -24,6 +24,7 @@ module.exports = {
     // This rule disallows the `private` modifier on class fields, but we
     // use it in some places. It also disables function expressions, but this
     // triggers for class methods as well.
+    //more details needed
     'no-restricted-syntax': 'off',
   },
 
